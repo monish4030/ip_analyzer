@@ -198,8 +198,7 @@ Display + Save Report
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
-
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-red?style=for-the-badge)
 ---
 
 <div align="center">
